@@ -1,0 +1,9 @@
+#Temp files
+*.asv
+
+#Data files
+data/
+
+#Deprecated
+main.m
+new.m
